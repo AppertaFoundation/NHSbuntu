@@ -14,8 +14,8 @@
 #
 # Example:
 # manpages-de
-plymouth-theme-nhsbuntu-gnome-text
-plymouth-theme-nhsbuntu-gnome-logo
+plymouth-theme-nhos-gnome-text
+plymouth-theme-nhos-gnome-logo
 evolution-ews
 pidgin
 pidgin-sipe
