@@ -1,3 +1,9 @@
+nhos-default-settings (0.1.28) xenial; urgency=low
+
+  * NHoS identity
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Wed, 11 Oct 2017 23:32:00 +0000
+
 nhsbuntu-default-settings (0.1.27) xenial; urgency=low
 
   * Version bump
