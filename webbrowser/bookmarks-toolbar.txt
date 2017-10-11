@@ -6,3 +6,4 @@
 #
 # Example:
 # http://www.zeit.de    Die Zeit Nachrichten
+https://nhos.openhealthhub.org/

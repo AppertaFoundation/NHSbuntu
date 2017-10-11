@@ -8,4 +8,4 @@
 #
 # Example:
 # Wikipedia (de)
-Google  (uk)
+Google (uk)
