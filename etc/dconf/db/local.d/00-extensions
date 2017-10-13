@@ -10,7 +10,7 @@ show-activities-button=false
 show-show-apps-button=false
 
 [org/gnome/desktop/background]
-picture-uri='file:///usr/share/backgrounds/nhsbuntu-default-settings.jpg'
+picture-uri='file:///usr/share/backgrounds/nhos-default-settings.jpg'
 color-shading-type='solid'
 primary-color='#007ac2'
 picture-options='scaled'
