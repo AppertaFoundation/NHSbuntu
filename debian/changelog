@@ -1,3 +1,9 @@
+nhos-default-settings (0.1.30) xenial; urgency=low
+
+  * NHoS identity additions
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Sat, 21 Oct 2017 00:14:00 +0000
+
 nhos-default-settings (0.1.29) xenial; urgency=low
 
   * Fixup background image filename
