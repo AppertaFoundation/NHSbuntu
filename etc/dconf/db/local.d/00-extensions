@@ -1,9 +1,9 @@
 [org/gnome/shell]
 enabled-extensions=['dash-to-panel@jderose9.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com']
-favorite-apps=[ 'firefox.desktop', 'nhsmail.desktop', 'libreoffice-writer.desktop', 'nautilus.desktop', 'yelp.desktop' ]
+favorite-apps=[ 'firefox.desktop', 'nhsmail.desktop', 'nautilus.desktop']
 
 [org/gnome/shell/extensions/dash-to-panel]
-panel-position='TOP'
+panel-position='BOTTOM'
 show-appmenu=false
 panel-size=32
 show-activities-button=false
@@ -12,6 +12,9 @@ show-show-apps-button=false
 [org/gnome/desktop/background]
 picture-uri='file:///usr/share/backgrounds/nhos-default-settings.jpg'
 color-shading-type='solid'
-primary-color='#007ac2'
+primary-color='#1cacea'
 picture-options='scaled'
-secondary-color='#007ac2'
+secondary-color='#1cacea'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb','gb')]
