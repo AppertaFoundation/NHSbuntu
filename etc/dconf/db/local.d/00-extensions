@@ -13,7 +13,7 @@ show-show-apps-button=false
 picture-uri='file:///usr/share/backgrounds/nhos-default-settings.jpg'
 color-shading-type='solid'
 primary-color='#1cacea'
-picture-options='scaled'
+picture-options='stretched'
 secondary-color='#1cacea'
 
 [org/gnome/desktop/input-sources]
