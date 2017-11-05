@@ -16,3 +16,7 @@
 
 ### Open Connect
 * Client for Cisco AnyConnect VPN. Provides support for NHS N3 SSL VPN with RSA 2FA - [OpenConnect](http://www.infradead.org/openconnect/)
+
+### Ubiquity
+* Ubuntu installer slideshow customization [with pictures!](http://www.dylanmccall.com/blog/2012/09/05/installer-slideshow-customization/)
+* Slideshow preview tool [Slideshow.py](http://bazaar.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html/view/head:/Slideshow.py)
