@@ -11,7 +11,7 @@ Build and sign source package
 
 Push package to launchpad
 
-`dput -f ppa:nhsbuntu/ppa nhos-default-settings_0.x.x_source.changes`
+`dput -f ppa:nhos/ppa nhos-default-settings_0.x.x_source.changes`
 
 ### Packaging for packagecloud.io
 Build and sign package with key
@@ -20,4 +20,4 @@ Build and sign package with key
 
 Push package to packagecloud
 
-`package_cloud push nhsbuntu/nhos-default-settings-test nhos-default-settings_0.x.x_all.deb`
+`package_cloud push nhsbuntu/nhos-default-settings/ubuntu/xenial nhos-default-settings_0.x.x_all.deb`
