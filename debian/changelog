@@ -1,3 +1,9 @@
+nhos-default-settings (0.1.33) xenial; urgency=low
+
+  * Removing remmina / freerdp from install
+
+ -- Rob Dyke (robdykedotcom) <robdyke@gmail.com>  Sun, 27 Nov 2017 00:14:00 +0000
+
 nhos-default-settings (0.1.32) xenial; urgency=low
 
   * Set systemd timeouts due to delay shutdown from Gnome
