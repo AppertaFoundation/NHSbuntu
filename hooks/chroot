@@ -40,9 +40,9 @@ gnome-shell-extension-manage --install --extension-id 1160 --system
 dconf update
 
 # Remmina
-add-apt-repository -y ppa:remmina-ppa-team/remmina-next
-apt-get update
-apt-get install -y remmina remmina-plugin-rdp freerdp-x11
+# add-apt-repository -y ppa:remmina-ppa-team/remmina-next
+# apt-get update
+# apt-get install -y remmina remmina-plugin-rdp freerdp-x11
 
 # Set systemd timeouts due to delayed shutdown / restart from Gnome user session
 sed -i 's/#DefaultTimeoutStartSec=90s/DefaultTimeoutStartSec=5s/' /etc/systemd/system.conf
