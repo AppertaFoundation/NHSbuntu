@@ -20,4 +20,4 @@ Build and sign package with key
 
 Push package to packagecloud
 
-`package_cloud push nhsbuntu/nhos-default-settings/ubuntu/xenial nhos-default-settings_0.x.x_all.deb`
+`package_cloud push nhos/nhos-default-settings/ubuntu/xenial nhos-default-settings_0.x.x_all.deb`
